@@ -97,9 +97,11 @@ Business Insights
 
 ## 📷 Dashboard Preview
 
-Dashboard preview:
+## 📷 Dashboard Preview
 
-`customer_behaviour_sql.jpg`
+Below is the interactive Power BI dashboard developed for this project.
+
+![Retail Customer Intelligence Dashboard](customer_behaviour_sql.jpg)
 
 ---
 
